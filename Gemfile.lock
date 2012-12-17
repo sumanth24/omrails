@@ -46,6 +46,7 @@ GEM
       railties (~> 3.1)
       warden (~> 1.2.1)
     erubis (2.7.0)
+    espn_rb (0.0.5)
     execjs (1.4.0)
       multi_json (~> 1.0)
     hike (1.2.1)
@@ -118,6 +119,7 @@ DEPENDENCIES
   bootstrap-sass
   coffee-rails (~> 3.2.1)
   devise
+  espn_rb
   jquery-rails
   pg
   rails (= 3.2.8)
